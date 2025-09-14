@@ -25,3 +25,4 @@ Me gusta la automatización de procesos y la gestión de datos para aportar valo
 ### 📫 Contacto
 - [LinkedIn](https://www.linkedin.com/in/ayoub-morghi-ouhda/)
 - Email: ayoubmorghiouhda@gmail.com
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
