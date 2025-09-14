@@ -23,5 +23,5 @@ Me gusta la automatización de procesos y la gestión de datos para aportar valo
 ![Ayoub's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayoubMO19&show_icons=true&theme=radical)
 
 ### 📫 Contacto
-- [LinkedIn](https://www.linkedin.com/in/ayoub-morghi-ouhda/)
+- LinkedIn: https://www.linkedin.com/in/ayoub-morghi-ouhda/
 - Email: ayoubmorghiouhda@gmail.com
