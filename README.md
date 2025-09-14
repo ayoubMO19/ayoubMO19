@@ -28,4 +28,4 @@ Me gusta la automatización de procesos y la gestión de datos para aportar valo
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayoub-morghi-ouhda/)
 - [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayoubmorghiouhda@gmail.com)
 
-💡 En constante aprendizaje y en busca de crear proyectos que marquen la diferencia
+🌱 Siempre aprendiendo y explorando nuevas tecnologías | 💡 Apasionado por crear soluciones que aporten valor y eficiencia
