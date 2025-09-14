@@ -11,7 +11,7 @@ Me gusta la automatización de procesos y la gestión de datos para aportar valo
 - **Herramientas:** Git, Docker, APIs, Web Scraping
 
 ### 🚀 Proyectos
-- **CoinGecko API REST:** API REST con Node.js, Express y Swagger UI [GitHub](https://github.com/ayoubMO19/coingecko-api-node) Developing
+- **CoinGecko API REST:** API REST con Node.js, Express y Swagger UI [GitHub](https://github.com/ayoubMO19/coingecko-api-node) - En estado de desarrollo
 
 ### 📈 Mis estadisticas
 ![Ayoub's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayoubMO19&show_icons=true&theme=radical)
