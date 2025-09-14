@@ -10,6 +10,12 @@ Me gusta la automatización de procesos y la gestión de datos para aportar valo
 - **Bases de datos:** MySQL, MongoDB, InfluxDB
 - **Herramientas:** Git, Docker, APIs, Web Scraping
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ### 🚀 Proyectos
 - **CoinGecko API REST:** API REST con Node.js, Express y Swagger UI [GitHub](https://github.com/ayoubMO19/coingecko-api-node) - En estado de desarrollo
 
