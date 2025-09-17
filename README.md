@@ -21,7 +21,6 @@ Me gusta la automatización de procesos y la gestión de datos para aportar valo
 
 ### 📈 Mis estadisticas
 ![Ayoub's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayoubMO19&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubMO19&layout=compact&theme=radical)
 
 ### 📫 Contacto - Haz click ⬇️
