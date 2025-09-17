@@ -19,10 +19,6 @@ Me gusta la automatización de procesos y la gestión de datos para aportar valo
 ### 🚀 Proyectos
 - **CoinGecko API REST:** API REST con Node.js, Express y Swagger UI [GitHub](https://github.com/ayoubMO19/coingecko-api-node) - En estado de desarrollo
 
-### 📈 Mis estadisticas
-![Ayoub's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayoubMO19&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubMO19&layout=compact&theme=radical)
-
 ### 📫 Contacto - Haz click ⬇️
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayoub-morghi-ouhda/)
 - [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayoubmorghiouhda@gmail.com) ayoubmorghiouhda@gmail.com
