@@ -18,7 +18,7 @@ Me gusta la automatización de procesos y la gestión de datos para aportar valo
 
 ### 🚀 Proyectos
 - **CoinGecko API REST:** API REST con Node.js, Express y Swagger UI [GitHub](https://github.com/ayoubMO19/coingecko-api-node) - Puedes visitar la web en: https://vexa-coingecko-api-nodejs.onrender.com/
-- **CoinGecko Dashboard:** Dashboard con Vite + React [GitHub]([https://github.com/ayoubMO19/coingecko-api-node](https://github.com/ayoubMO19/coingecko-dashboard-react)) -En proceso de desarrollo
+- **CoinGecko Dashboard:** Dashboard con Vite + React [GitHub](https://github.com/ayoubMO19/coingecko-dashboard-react) -En proceso de desarrollo
 
 ### 📫 Contacto - Haz click ⬇️
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayoub-morghi-ouhda/)
