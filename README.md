@@ -19,7 +19,6 @@ I enjoy automating processes and managing data to deliver value, helping save tw
 ### 📊 GitHub Stats
 ![Ayoub's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayoubMO19&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubMO19&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayoubMO19&theme=radical)
 
 ### 🚀 Projects
 - **CoinGecko REST API:** REST API with Node.js, Express, and Swagger UI [GitHub-repo](https://github.com/ayoubMO19/coingecko-api-node) - You can check it online: https://vexa-coingecko-api-nodejs.onrender.com/
