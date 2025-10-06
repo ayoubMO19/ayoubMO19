@@ -1,14 +1,14 @@
 ## Hi there 👋
-Soy Ayoub, desarrollador Full Stack Junior | Apasionado por IA y automatización
+I’m Ayoub, Junior Full Stack Developer | Passionate about AI and automation
 
-¡Hola! Como desarrollador me encanta crear proyectos que combinen creatividad y tecnología.
-Me gusta la automatización de procesos y la gestión de datos para aportar valor, ayudando a ahorrar los dos recursos más importantes hoy en día: **Tiempo** y **Energía**.
+Hello! As a developer, I love creating projects that combine creativity and technology.  
+I enjoy automating processes and managing data to deliver value, helping save two of the most important resources today: **Time** and **Energy**.
 
-### 🛠 Tecnologías y Herramientas
-- **Lenguajes:** JavaScript, PHP, Python, Java, HTML, CSS
+### 🛠 Technologies & Tools
+- **Languages:** JavaScript, PHP, Python, Java, HTML, CSS
 - **Frameworks:** Laravel, Node.js
-- **Bases de datos:** MySQL, MongoDB, InfluxDB
-- **Herramientas:** Git, Docker, APIs, Web Scraping
+- **Databases:** MySQL, MongoDB, InfluxDB
+- **Tools:** Git, Docker, APIs, Web Scraping
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -16,12 +16,12 @@ Me gusta la automatización de procesos y la gestión de datos para aportar valo
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🚀 Proyectos
-- **CoinGecko API REST:** API REST con Node.js, Express y Swagger UI [GitHub-repo](https://github.com/ayoubMO19/coingecko-api-node) - Puedes visitar la web en: https://vexa-coingecko-api-nodejs.onrender.com/
-- **CoinGecko Dashboard:** Dashboard con Vite + React [GitHub-repo](https://github.com/ayoubMO19/coingecko-dashboard-react) - En proceso de desarrollo
+### 🚀 Projects
+- **CoinGecko REST API:** REST API with Node.js, Express, and Swagger UI [GitHub-repo](https://github.com/ayoubMO19/coingecko-api-node) - You can check it online: https://vexa-coingecko-api-nodejs.onrender.com/
+- **CoinGecko Dashboard:** Dashboard built with Vite + React [GitHub-repo](https://github.com/ayoubMO19/coingecko-dashboard-react) - Work in progress
 
-### 📫 Contacto - Haz click ⬇️
+### 📫 Contact - Click below ⬇️
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayoub-morghi-ouhda/)
 - [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayoubmorghiouhda@gmail.com) ayoubmorghiouhda@gmail.com
 
-🌱 Siempre aprendiendo y explorando nuevas tecnologías | 💡 Apasionado por crear soluciones que aporten valor y eficiencia
+🌱 Always learning and exploring new technologies | 💡 Passionate about creating solutions that bring value and efficiency
