@@ -6,7 +6,7 @@ I enjoy automating processes and managing data to deliver value, helping save tw
 
 ### 🛠 Technologies & Tools
 - **Languages:** JavaScript, PHP, Python, Java, HTML, CSS
-- **Frameworks:** Laravel, Node.js
+- **Frameworks:** Laravel, Node.js, React JS
 - **Databases:** MySQL, MongoDB, InfluxDB
 - **Tools:** Git, Docker, APIs, Web Scraping
 
