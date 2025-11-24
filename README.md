@@ -28,6 +28,7 @@ A clean and fast dashboard that visualizes crypto market data.
 #### 🔹 VEXA Backend E-Commerce (JAVA Spring Boot)
 The backend of an e-commerce site
 👉 **Repo:** https://github.com/ayoubMO19/e-commerce-backend - (in progress)
+
 ---
 
 ### 📊 GitHub Stats  
