@@ -20,12 +20,14 @@ I enjoy working with **backend logic, databases, automation, and APIs**, turning
 - A fully documented REST API that connects with the CoinGecko market data.  
 👉 **Repo:** https://github.com/ayoubMO19/coingecko-api-node  
 👉 **Live Demo:** https://vexa-coingecko-api-nodejs.onrender.com/
-<br/>
+
+
 #### 🔹 VEXA Dashboard (React + Vite)
 - A clean and fast dashboard that visualizes crypto market data.  
 👉 **Repo:** https://github.com/ayoubMO19/coingecko-dashboard-react <br/>
 👉 **Live Demo:** https://vexa-dash.vercel.app/
-<br/>
+
+
 #### 🔹 VEXA E-Commerce Backend (JAVA Spring Boot)
 - The backend of an e-commerce site.  
 👉 **Repo:** https://github.com/ayoubMO19/e-commerce-backend - (in progress)
