@@ -25,8 +25,8 @@ A fully documented REST API that connects with the CoinGecko market data.
 A clean and fast dashboard that visualizes crypto market data.  
 👉 **Repo:** https://github.com/ayoubMO19/coingecko-dashboard-react
 
-#### 🔹 VEXA Backend E-Commerce (JAVA Spring Boot)
-The backend of an e-commerce site.
+#### 🔹 VEXA Dashboard (React + Vite)
+The backend of an e-commerce site.  
 👉 **Repo:** https://github.com/ayoubMO19/e-commerce-backend - (in progress)
 
 ---
