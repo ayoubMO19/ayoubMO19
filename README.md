@@ -24,6 +24,7 @@ A fully documented REST API that connects with the CoinGecko market data.
 #### 🔹 VEXA Dashboard (React + Vite)
 A clean and fast dashboard that visualizes crypto market data.  
 👉 **Repo:** https://github.com/ayoubMO19/coingecko-dashboard-react
+
 👉 **Live Demo:** https://vexa-dash.vercel.app/
 
 #### 🔹 VEXA Dashboard (React + Vite)
