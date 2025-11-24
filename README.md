@@ -1,5 +1,5 @@
 ## Hi there 👋  
-I'm **Ayoub Morghi**, Full Stack Developer | Laravel · Node.js · APIs · Automation
+I'm **Ayoub Morghi**, Full Stack Developer | JAVA · Laravel · Node.js · APIs · Automation
 
 I’m a full stack developer focused on building efficient, scalable, and well-structured applications.  
 I enjoy working with **backend logic, databases, automation, and APIs**, turning ideas into real and useful products.
@@ -7,7 +7,7 @@ I enjoy working with **backend logic, databases, automation, and APIs**, turning
 ---
 
 ### 🛠️ Tech Stack  
-**Languages:** JavaScript · PHP · Python · Java  
+**Languages:** JavaScript · Java · PHP · Python
 **Backend:** Laravel · Node.js (Express)  
 **Frontend:** React · Vite · HTML · CSS  
 **Databases:** MySQL · MongoDB · InfluxDB  
