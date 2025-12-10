@@ -54,12 +54,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-![Ayoub's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayoubMO19&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubMO19&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 📫 Let's Connect & Build Something Amazing!
 
 🔍 **Currently open to:** Full-time roles | Contract opportunities | Backend/Full Stack positions  
