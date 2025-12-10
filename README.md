@@ -63,7 +63,7 @@
 ## 📫 Let's Connect & Build Something Amazing!
 
 🔍 **Currently open to:** Full-time roles | Contract opportunities | Backend/Full Stack positions  
-📍 **Location:** [Tu ciudad/país] | 🌍 **Remote:** Yes | 💼 **Relocation:** Open to discuss
+📍 **Location:** Spain | 🌍 **Remote:** Yes | 💼 **Relocation:** Open to discuss
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayoub-morghi-ouhda/)
 [![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayoubmorghiouhda@gmail.com)
