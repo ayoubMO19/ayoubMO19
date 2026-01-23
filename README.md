@@ -32,16 +32,11 @@
 🔗 **Live Demo:** [vexa-coingecko-api-nodejs.onrender.com](https://vexa-coingecko-api-nodejs.onrender.com/)  
 📂 **Repo:** [github.com/ayoubMO19/coingecko-api-node](https://github.com/ayoubMO19/coingecko-api-node)
 
-### 🔹 **VEXA Dashboard** – Crypto Market Analytics  
-⚡ **Tech:** React · Vite · Chart.js · REST API  
-✅ **Highlights:** Real-time visualization · Mobile responsive · Fast loading (<2s)  
-🔗 **Live Demo:** [vexa-dash.vercel.app](https://vexa-dash.vercel.app/)  
-📂 **Repo:** [github.com/ayoubMO19/coingecko-dashboard-react](https://github.com/ayoubMO19/coingecko-dashboard-react)
-
 ### 🔹 **VEXA E-Commerce Backend** – Spring Boot System  
 ⚡ **Tech:** Java · Spring Boot · MySQL · JWT  
 ✅ **Highlights:** RESTful architecture · Authentication system · Order management  
-📂 **Repo:** [github.com/ayoubMO19/e-commerce-backend](https://github.com/ayoubMO19/e-commerce-backend) *(in progress)*
+🔗 **Live Demo:** [e-commerce-backend.onrender.com](https://e-commerce-backend-lny2.onrender.com/swagger-ui/index.html)  
+📂 **Repo:** [github.com/ayoubMO19/e-commerce-backend](https://github.com/ayoubMO19/e-commerce-backend)
 
 ---
 
