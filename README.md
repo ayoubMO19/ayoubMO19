@@ -2,50 +2,48 @@
 
 Backend / Full-Stack Developer
 
-I build backend systems, APIs and full-stack applications with a focus on clean architecture, reliability and real-world functionality.
+Developer focused on building **backend systems, APIs and real full-stack applications** with clean architecture and production-ready practices.
 
-Location: Spain  
-Open to: Backend / Full-Stack roles (Node.js · Java)
+📍 Spain  
+💼 Open to Backend / Full-Stack roles  
+🌍 Remote friendly
 
 ---
 
 ## Tech Stack
 
-Languages
-Java · JavaScript · TypeScript · PHP
+**Backend**
+Java · Spring Boot · Node.js · Express · REST APIs · JWT
 
-Backend
-Spring Boot · Node.js · Express · REST APIs · JWT Authentication
+**Frontend**
+React · TypeScript · Vite · Tailwind
 
-Frontend
-React · TypeScript · Tailwind
+**Databases**
+PostgreSQL · MySQL · MongoDB
 
-Databases
-MySQL · PostgreSQL · MongoDB
-
-Tools
-Docker · Git · REST Clients · Linux
+**Tools**
+Docker · Git · Linux
 
 ---
 
-## Featured Projects
+# Featured Projects
 
-### VEXA E-Commerce (Full Stack System)
+## VEXA E-Commerce (Full Stack)
 
-Complete e-commerce platform built with a production-style architecture.
+Production-style e-commerce platform with secure payments and modular architecture.
 
-Backend  
-Java · Spring Boot · JWT · PostgreSQL · Stripe Webhooks
+**Backend**
+Java · Spring Boot · PostgreSQL · JWT · Stripe Webhooks
 
 Features
-- Authentication and authorization
+- Authentication & authorization
 - Product catalog and categories
 - Shopping cart system
-- Order management
-- Payment integration with Stripe
-- Secure webhook verification
+- Order lifecycle management
+- Secure Stripe payment integration
+- Verified webhook handling
 
-Frontend  
+**Frontend**
 React · TypeScript · Vite · Tailwind · TanStack Query
 
 Features
@@ -54,7 +52,7 @@ Features
 - Persistent shopping cart
 - API integration with backend
 
-Frontend Demo  
+Live Demo  
 https://e-commerce-frontend-mu-five.vercel.app/
 
 Repositories  
@@ -66,33 +64,33 @@ https://github.com/ayoubMO19/e-commerce-frontend
 
 ---
 
-### Crypto Market API
+## Crypto Market API
 
-Node.js REST API for retrieving and analysing cryptocurrency data.
+REST API for retrieving and analysing cryptocurrency data.
 
-Tech
+Tech  
 Node.js · Express · Swagger · JWT
 
 Features
 - REST API architecture
-- Authentication with JWT
-- Swagger API documentation
+- JWT authentication
+- Swagger documentation
 - Integration with CoinGecko data
 
-Demo
+Demo  
 https://vexa-coingecko-api-nodejs.onrender.com/
 
-Repository
+Repository  
 https://github.com/ayoubMO19/coingecko-api-node
 
 ---
 
-## What I Focus On
+## Focus Areas
 
 - Backend development
-- API design
+- API architecture
 - Database modelling
-- Clean architecture
+- Secure authentication systems
 - Building complete systems (backend + frontend)
 
 ---
@@ -100,7 +98,10 @@ https://github.com/ayoubMO19/coingecko-api-node
 ## Contact
 
 LinkedIn  
-https://www.linkedin.com/in/ayoub-morghi-ouhda/
+linkedin.com/in/ayoub-morghi-ouhda
 
 Email  
 ayoubmorghiouhda@gmail.com
+
+Number  
++34 631 515 999
