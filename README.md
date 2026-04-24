@@ -1,6 +1,6 @@
 # Ayoub Morghi Ouhda
 
-Backend Developer (Node.js / Java)
+Backend Developer
 
 Backend-focused developer building APIs, distributed services and full-stack applications with production-oriented architecture.
 
