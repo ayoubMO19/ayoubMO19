@@ -1,107 +1,94 @@
 # Ayoub Morghi Ouhda
 
-Backend / Full-Stack Developer
+Backend Developer (Node.js / Java)
 
-Developer focused on building **backend systems, APIs and real full-stack applications** with clean architecture and production-ready practices.
+Backend-focused developer building APIs, distributed services and full-stack applications with production-oriented architecture.
 
 📍 Spain  
-💼 Open to Backend / Full-Stack roles  
-🌍 Remote friendly
+💼 Backend / Full-Stack roles  
+🌍 Open to remote / hybrid
 
 ---
 
 ## Tech Stack
 
 **Backend**
-Java · Spring Boot · Node.js · Express · REST APIs · JWT
+Node.js (TypeScript, Express) · Java · Spring Boot · REST APIs · JWT · Stripe integration
 
 **Frontend**
-React · TypeScript · Vite · Tailwind
+React · TypeScript · Vite · Tailwind · TanStack Query
 
 **Databases**
 PostgreSQL · MySQL · MongoDB
 
-**Tools**
-Docker · Git · Linux
+**Infrastructure / Tools**
+Docker · Git · Linux · CI/CD basics
 
 ---
 
 # Featured Projects
 
-## VEXA E-Commerce (Full Stack)
+## VEXA E-Commerce (Full Stack System)
 
-Production-style e-commerce platform with secure payments and modular architecture.
+Full-stack e-commerce platform with real payment integration and modular backend architecture.
 
 **Backend**
-Java · Spring Boot · PostgreSQL · JWT · Stripe Webhooks
+Java · Spring Boot · PostgreSQL · JPA/Hibernate · Spring Security · JWT · Stripe Webhooks
 
-Features
-- Authentication & authorization
-- Product catalog and categories
-- Shopping cart system
+- API REST layered architecture (Controller / Service / Repository / DTO)
+- Authentication & role-based authorization
 - Order lifecycle management
-- Secure Stripe payment integration
-- Verified webhook handling
+- Shopping cart and product system
+- Secure Stripe payment flow with verified webhooks
 
 **Frontend**
 React · TypeScript · Vite · Tailwind · TanStack Query
 
-Features
-- JWT authentication flow
-- Product browsing
-- Persistent shopping cart
-- API integration with backend
+- Auth flow with JWT
+- State management with server cache synchronization
+- API integration with backend services
 
-Live Demo  
+Live  
 https://e-commerce-frontend-mu-five.vercel.app/
 
 Repositories  
-Backend  
-https://github.com/ayoubMO19/e-commerce-backend
-
-Frontend  
-https://github.com/ayoubMO19/e-commerce-frontend
+Backend: https://github.com/ayoubMO19/e-commerce-backend  
+Frontend: https://github.com/ayoubMO19/e-commerce-frontend
 
 ---
 
 ## Crypto Market API
 
-REST API for retrieving and analysing cryptocurrency data.
+REST API for cryptocurrency data processing and analysis.
 
-Tech  
-Node.js · Express · Swagger · JWT
+Node.js · Express · Swagger · JWT · REST
 
-Features
-- REST API architecture
-- JWT authentication
-- Swagger documentation
-- Integration with CoinGecko data
+- Modular backend architecture (controllers / services / middlewares)
+- Authentication layer with JWT
+- Swagger/OpenAPI documentation
+- External API integration (CoinGecko)
+- Deployed on Render
 
 Demo  
 https://vexa-coingecko-api-nodejs.onrender.com/
 
-Repository  
+Repo  
 https://github.com/ayoubMO19/coingecko-api-node
 
 ---
 
-## Focus Areas
+## Core Focus
 
-- Backend development
-- API architecture
-- Database modelling
-- Secure authentication systems
-- Building complete systems (backend + frontend)
+- Backend systems and API design
+- Scalable architecture patterns
+- Data modelling and persistence
+- Authentication and security layers
+- Production-ready backend development
 
 ---
 
 ## Contact
 
-LinkedIn  
-linkedin.com/in/ayoub-morghi-ouhda
-
-Email  
-ayoubmorghiouhda@gmail.com
-
-Number  
-+34 631 515 999
+LinkedIn: linkedin.com/in/ayoub-morghi-ouhda  
+Email: ayoubmorghiouhda@gmail.com  
+Phone: +34 631 515 999
