@@ -55,9 +55,10 @@ Scalable e-commerce system with real payment integration.
 ---
 
 ## 🎯 Core Focus
-- API Design & Scalable Backend Patterns.
-- Web Scraping & Data Automation (Playwright, Crawlee).
-- System Performance Optimization.
+- **Backend Architecture:** Specialist in Node.js & TypeScript, building scalable and secure RESTful services.
+- **Full-Stack Versatility:** Proficient in React and modern frontend ecosystems to build end-to-end features.
+- **Data Engineering:** Hands-on experience in data modeling, automation through web scraping, and real-time processing.
+- **Agile & DevOps:** Committed to clean code (MVC), automated testing, and containerized deployments (Docker).
 
 ---
 
