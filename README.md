@@ -28,6 +28,7 @@ Docker · Git · Linux · CI/CD basics
 ## Crypto Market API (Node.js Backend)
 
 REST API for real-time cryptocurrency data processing and market analysis.
+
 **Stack:** Node.js · Express · Swagger · JWT · Node-Cron.
 
 - **Architecture:** Clean MVC pattern with modular services.
@@ -40,7 +41,9 @@ REST API for real-time cryptocurrency data processing and market analysis.
 ---
 
 ### 2. VEXA E-Commerce (Full Stack)
+
 Scalable e-commerce system with real payment integration.
+
 **Stack:** Java (Spring Boot), PostgreSQL, React, Stripe.
 
 - **Backend:** Layered architecture (DTO/Service/Repo) and Spring Security.
