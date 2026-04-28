@@ -50,8 +50,7 @@ Scalable e-commerce system with real payment integration.
 - **Payments:** Secure Stripe flow with verified webhooks.
 - **Frontend:** State management with TanStack Query and JWT auth flow.
 
-[Backend Repo](https://github.com/ayoubMO19/e-commerce-backend) | [Frontend Repo](https://github.com/ayoubMO19/e-commerce-frontend)
-[Live Demo](https://e-commerce-frontend-mu-five.vercel.app/)
+[Backend Repo](https://github.com/ayoubMO19/e-commerce-backend) | [Frontend Repo](https://github.com/ayoubMO19/e-commerce-frontend) | [Live Demo](https://e-commerce-frontend-mu-five.vercel.app/)
 
 ---
 
