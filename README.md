@@ -1,19 +1,16 @@
 # Ayoub Morghi Ouhda
-
-Backend Developer
+**Backend Developer | Node.js · TypeScript · Java**
 
 Backend-focused developer building APIs, distributed services and full-stack applications with production-oriented architecture.
 
-📍 Spain  
-💼 Backend / Full-Stack roles  
-🌍 Open to remote / hybrid
+📍 Spain (Full mobility) | 🌍 Remote / Hybrid / On-site
 
 ---
 
 ## Tech Stack
 
 **Backend**
-Node.js (TypeScript, Express) · Java · Spring Boot · REST APIs · JWT · Stripe integration
+Node.js (JavaScript, TypeScript, Express) · REST APIs · JWT · RabbitMQ · Java · Spring Boot
 
 **Frontend**
 React · TypeScript · Vite · Tailwind · TanStack Query
@@ -28,67 +25,39 @@ Docker · Git · Linux · CI/CD basics
 
 # Featured Projects
 
-## VEXA E-Commerce (Full Stack System)
+## Crypto Market API (Node.js Backend)
 
-Full-stack e-commerce platform with real payment integration and modular backend architecture.
+REST API for real-time cryptocurrency data processing and market analysis.
+**Stack:** Node.js · Express · Swagger · JWT · Node-Cron.
 
-**Backend**
-Java · Spring Boot · PostgreSQL · JPA/Hibernate · Spring Security · JWT · Stripe Webhooks
+- **Architecture:** Clean MVC pattern with modular services.
+- **Security:** Authentication layer with JWT and custom middlewares.
+- **Automation:** Scheduled tasks (cronjobs) for data synchronization.
+- **Documentation:** Full OpenAPI/Swagger 3.0 integration.
 
-- API REST layered architecture (Controller / Service / Repository / DTO)
-- Authentication & role-based authorization
-- Order lifecycle management
-- Shopping cart and product system
-- Secure Stripe payment flow with verified webhooks
-
-**Frontend**
-React · TypeScript · Vite · Tailwind · TanStack Query
-
-- Auth flow with JWT
-- State management with server cache synchronization
-- API integration with backend services
-
-Live  
-https://e-commerce-frontend-mu-five.vercel.app/
-
-Repositories  
-Backend: https://github.com/ayoubMO19/e-commerce-backend  
-Frontend: https://github.com/ayoubMO19/e-commerce-frontend
+[Repo](https://github.com/ayoubMO19/coingecko-api-node) | [Live Demo](https://vexa-coingecko-api-nodejs.onrender.com/api-docs)
 
 ---
 
-## Crypto Market API
+### 2. VEXA E-Commerce (Full Stack)
+Scalable e-commerce system with real payment integration.
+**Stack:** Java (Spring Boot), PostgreSQL, React, Stripe.
 
-REST API for cryptocurrency data processing and analysis.
+- **Backend:** Layered architecture (DTO/Service/Repo) and Spring Security.
+- **Payments:** Secure Stripe flow with verified webhooks.
+- **Frontend:** State management with TanStack Query and JWT auth flow.
 
-Node.js · Express · Swagger · JWT · REST
-
-- Modular backend architecture (controllers / services / middlewares)
-- Authentication layer with JWT
-- Swagger/OpenAPI documentation
-- External API integration (CoinGecko)
-- Deployed on Render
-
-Demo  
-https://vexa-coingecko-api-nodejs.onrender.com/
-
-Repo  
-https://github.com/ayoubMO19/coingecko-api-node
+[Backend Repo](https://github.com/ayoubMO19/e-commerce-backend) | [Frontend Repo](https://github.com/ayoubMO19/e-commerce-frontend)
+[Live Demo](https://e-commerce-frontend-mu-five.vercel.app/)
 
 ---
 
-## Core Focus
-
-- Backend systems and API design
-- Scalable architecture patterns
-- Data modelling and persistence
-- Authentication and security layers
-- Production-ready backend development
+## 🎯 Core Focus
+- API Design & Scalable Backend Patterns.
+- Web Scraping & Data Automation (Playwright, Crawlee).
+- System Performance Optimization.
 
 ---
 
-## Contact
-
-LinkedIn: linkedin.com/in/ayoub-morghi-ouhda  
-Email: ayoubmorghiouhda@gmail.com  
-Phone: +34 631 515 999
+## 📬 Contact
+[LinkedIn](https://linkedin.com/in/ayoub-morghi-ouhda) | ayoubmorghiouhda@gmail.com | +34 631 515 999
