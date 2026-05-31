@@ -1,66 +1,156 @@
 # Ayoub Morghi Ouhda
-**Backend Developer | Node.js · TypeScript · Java**
 
-Backend-focused developer building APIs, distributed services and full-stack applications with production-oriented architecture.
+**Full Stack Developer | Node.js · React · TypeScript · Java · SQL / NoSQL**
 
-📍 Spain (Full mobility) | 🌍 Remote / Hybrid / On-site
+Full Stack Developer with professional experience building web applications, APIs, distributed systems and data-driven products using modern JavaScript and Java ecosystems.
+
+📍 Spain (Full mobility)  
+🌍 Open to Remote, Hybrid and On-site opportunities
 
 ---
 
-## Tech Stack
+## Professional Experience
 
-**Backend**
-Node.js (JavaScript, TypeScript, Express) · REST APIs · JWT · RabbitMQ · Java · Spring Boot
+Over 1 year of professional experience developing production software in the energy sector and freelance projects.
 
-**Frontend**
-React · TypeScript · Vite · Tailwind · TanStack Query
+Worked with:
 
-**Databases**
-PostgreSQL · MySQL · MongoDB
+- REST APIs and microservices
+- SQL and NoSQL databases
+- RabbitMQ messaging systems
+- Data processing and automation pipelines
+- Web scraping and external API integrations
+- Dockerized environments
+- Backend architecture and business logic implementation
 
-**Infrastructure / Tools**
-Docker · Git · Linux · CI/CD basics
+---
+
+# Tech Stack
+
+## Backend
+
+- Node.js
+- TypeScript
+- JavaScript
+- Express
+- Java
+- Spring Boot
+- REST APIs
+- JWT Authentication
+- RabbitMQ
+
+## Frontend
+
+- React
+- TypeScript
+- JavaScript
+- Vite
+- Tailwind CSS
+- TanStack Query
+- React Router
+
+## Databases
+
+- PostgreSQL
+- MySQL
+- MongoDB
+- InfluxDB
+
+## Infrastructure & Tools
+
+- Docker
+- Git
+- Linux
+- CI/CD Basics
 
 ---
 
 # Featured Projects
 
-## Crypto Market API (Node.js Backend)
+## VEXA E-Commerce Platform
 
-REST API for real-time cryptocurrency data processing and market analysis.
+**Java Spring Boot · PostgreSQL · React · Stripe**
 
-**Stack:** Node.js · Express · Swagger · JWT · Node-Cron.
+Production-oriented e-commerce platform implementing secure authentication, payment processing and scalable architecture.
 
-- **Architecture:** Clean MVC pattern with modular services.
-- **Security:** Authentication layer with JWT and custom middlewares.
-- **Automation:** Scheduled tasks (cronjobs) for data synchronization.
-- **Documentation:** Full OpenAPI/Swagger 3.0 integration.
+### Highlights
 
-[Repo](https://github.com/ayoubMO19/coingecko-api-node) | [Live Demo](https://vexa-coingecko-api-nodejs.onrender.com/api-docs)
+- Domain-oriented backend architecture
+- JWT authentication and authorization
+- Stripe Payment Intents & Webhooks
+- Spring Security integration
+- PostgreSQL relational data modeling
+- React + TypeScript frontend
+- TanStack Query server-state management
 
----
-
-### 2. VEXA E-Commerce (Full Stack)
-
-Scalable e-commerce system with real payment integration.
-
-**Stack:** Java (Spring Boot), PostgreSQL, React, Stripe.
-
-- **Backend:** Layered architecture (DTO/Service/Repo) and Spring Security.
-- **Payments:** Secure Stripe flow with verified webhooks.
-- **Frontend:** State management with TanStack Query and JWT auth flow.
-
-[Backend Repo](https://github.com/ayoubMO19/e-commerce-backend) | [Frontend Repo](https://github.com/ayoubMO19/e-commerce-frontend) | [Live Demo](https://e-commerce-frontend-mu-five.vercel.app/)
+🔗 [Backend Repository](https://github.com/ayoubMO19/e-commerce-backend)  
+🔗 [Frontend Repository](https://github.com/ayoubMO19/e-commerce-frontend)  
+🔗 [Live Demo](https://e-commerce-frontend-mu-five.vercel.app/)
 
 ---
 
-## 🎯 Core Focus
-- **Backend Architecture:** Specialist in Node.js & TypeScript, building scalable and secure RESTful services.
-- **Full-Stack Versatility:** Proficient in React and modern frontend ecosystems to build end-to-end features.
-- **Data Engineering:** Hands-on experience in data modeling, automation through web scraping, and real-time processing.
-- **Agile & DevOps:** Committed to clean code (MVC), automated testing, and containerized deployments (Docker).
+## CRM Platform for Business Management
+
+**Node.js · TypeScript · PostgreSQL · React**
+
+Custom CRM system developed for a real client and currently used in production.
+
+### Highlights
+
+- Customer and case management
+- Business process digitalization
+- Centralized information management
+- Full-stack architecture with TypeScript
+- PostgreSQL relational database design
+- Role-based access control
+
+🔒 Repository private due to client confidentiality.
 
 ---
 
-## 📬 Contact
-[LinkedIn](https://linkedin.com/in/ayoub-morghi-ouhda) | ayoubmorghiouhda@gmail.com | +34 631 515 999
+## Crypto Market API
+
+**Node.js · Express · Redis · JWT · Swagger**
+
+REST API that consumes and processes cryptocurrency market data from CoinGecko.
+
+### Highlights
+
+- Clean MVC architecture
+- Redis caching layer
+- JWT authentication
+- Swagger/OpenAPI documentation
+- Automated synchronization jobs
+- External API integration
+- Modular service structure
+
+🔗 [Repository](https://github.com/ayoubMO19/coingecko-api-node)  
+🔗 [Live Demo](https://vexa-coingecko-api-nodejs.onrender.com/api-docs)
+
+---
+
+# Core Strengths
+
+### Full Stack Development
+Building end-to-end web applications using React, TypeScript, Node.js and Java.
+
+### Backend Engineering
+Designing scalable APIs, business logic and service-oriented architectures with Node.js and Spring Boot.
+
+### Data Systems
+Working with SQL and NoSQL databases, data processing pipelines, external APIs and automation workflows.
+
+### Software Architecture
+Focused on maintainable codebases, modular design and production-ready solutions.
+
+---
+
+# Contact
+
+📧 ayoubmorghiouhda@gmail.com
+
+🔗 LinkedIn  
+https://linkedin.com/in/ayoub-morghi-ouhda
+
+💻 Portfolio  
+https://ayoubmorghi.com
