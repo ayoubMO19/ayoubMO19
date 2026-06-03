@@ -58,14 +58,34 @@ Worked with:
 
 ## Infrastructure & Tools
 
+- AWS (EC2, RDS)
 - Docker
+- Nginx
+- GitHub Actions (CI/CD)
 - Git
 - Linux
-- CI/CD Basics
 
 ---
 
 # Featured Projects
+
+## AI Hub API — AI Models Intelligence Platform
+**NestJS · TypeScript · PostgreSQL · Redis · AWS EC2 · AWS RDS · Docker**
+
+REST API that aggregates and normalizes data from 300+ real AI models 
+from OpenRouter, with automatic synchronization, Redis caching and JWT authentication.
+
+### Highlights
+- Auto-sync from OpenRouter every 6h via cron jobs — 342 models normalized
+- Redis caching reduces response time from ~30ms to ~1ms on ranking endpoints
+- JWT access (15min) + refresh tokens (7d) with individual revocation
+- Deployed on AWS EC2 + RDS with Docker, Nginx, HTTPS and GitHub Actions CI/CD
+- Dynamic rankings: cheapest, fastest, largest context, open-source, multimodal
+
+🔗 [Live API](https://aihub.ayoubmorghi.com/api/docs)  
+🔗 [Repository](https://github.com/ayoubMO19/ai-hub)
+
+---
 
 ## VEXA E-Commerce Platform
 
@@ -105,27 +125,6 @@ Custom CRM system developed for a real client and currently used in production.
 - Role-based access control
 
 🔒 Repository private due to client confidentiality.
-
----
-
-## Crypto Market API
-
-**Node.js · Express · Redis · JWT · Swagger**
-
-REST API that consumes and processes cryptocurrency market data from CoinGecko.
-
-### Highlights
-
-- Clean MVC architecture
-- Redis caching layer
-- JWT authentication
-- Swagger/OpenAPI documentation
-- Automated synchronization jobs
-- External API integration
-- Modular service structure
-
-🔗 [Repository](https://github.com/ayoubMO19/coingecko-api-node)  
-🔗 [Live Demo](https://vexa-coingecko-api-nodejs.onrender.com/api-docs)
 
 ---
 
